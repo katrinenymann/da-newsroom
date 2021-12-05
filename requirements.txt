@@ -1,6 +1,6 @@
 regex
 scrapy
 tqdm
-gensim
+gensim==3.4.0
 pulp
 -e ./newsroom-lib

@@ -1,3 +1,6 @@
+import sys, os
+sys.path.append('/work/da-newsroom/models') 
+
 import typing
 from concurrent.futures import ProcessPoolExecutor
 from multiprocessing import cpu_count
